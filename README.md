@@ -1,4 +1,4 @@
-# E06b-Sound-and-Music
+# E06b-Sound-and-Music Allie Brock MSCH-C220 Spring 2020
 
 This is an opportunity for you to create sound effects and music and make them a part of your games going forward. Fork and Clone this repository to your computer.
 

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/My_First_Score.ogg-b347f959dfb80f5237a27b13407418d3.oggstr"
+
+[deps]
+
+source_file="res://Assets/My_First_Score.ogg"
+dest_files=[ "res://.import/My_First_Score.ogg-b347f959dfb80f5237a27b13407418d3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
